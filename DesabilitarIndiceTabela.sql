@@ -1,4 +1,4 @@
---Disabilitar indices de tabelas com update
+--Desabilitar indices de tabelas com update
 -- 03-12-2019
 UPDATE pg_index
 SET indisready=false
